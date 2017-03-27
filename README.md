@@ -1,3 +1,5 @@
+#clone test
+
 这个demo是一个简单的通讯录，UI主要是通过storyboard简单实现的，主要使用的知识点如下：
 1 segue里面，简单的block传值
 2 model数组 归档 解档
